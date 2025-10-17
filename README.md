@@ -28,19 +28,10 @@ I enjoy solving problems that demand both logic and creativity.
 - 💡 Experienced in **data structures, algorithms, and optimization**  
 - 🔍 Passionate about **turning theoretical ideas into practical systems**
 ---
-### 🎮 Outside the Screen
-When I’m not engineering something new, I’m probably:
-- 🎮 Playing story-driven **video games** (I take side quests *way* too seriously)  
-- ✈️ Exploring new places and taking **night photography** shots  
-- 🎨 Designing random visuals or tweaking my **Mac setup** until it feels like *Tony Stark’s lab console*  
----
-### ⚡ Fun Fact
-I often build something just because I *want to know how it works*.  
-Half of those ideas break — but that’s how the best ones are born.  
----
+
 ### 🧭 Vision
-To become an **AI Engineer & Product Builder** who combines **logic, design, and empathy** to create tech that feels truly *human*.  
-Because real engineering isn’t just about solving problems — it’s about solving the *right* ones.
+- To become an **AI Engineer & Product Builder** who combines **logic, design, and empathy** to create tech that feels truly *human*.  
+- Because real engineering isn’t just about solving problems — it’s about solving the *right* ones.Also solving problems that actually matters and want to be a successful entrepreneur 
 ---
 
 > _"Think deeply. Build boldly. Solve relentlessly."_ ⚙️
