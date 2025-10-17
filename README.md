@@ -13,19 +13,6 @@ Whether it’s debugging a stubborn algorithm or designing an AI-powered product
 
 ---
 
-### 🔭 Currently Working On
-- **CravixTech** — a growing tech agency delivering web apps, AI automations, and digital experiences that actually grow businesses.  
-- A **personal AI-powered SaaS suite** using **LangChain**, **Next.js**, **n8n**, and **voice agents** for real-world productivity.  
-
----
-
-### 👯 Looking to Collaborate On
-- Full-stack engineering projects (**Next.js**, **Nest.js**, **Express**, **MongoDB**, **PostgreSQL**)  
-- **AI agent automation** (LangChain, n8n, custom GPTs)  
-- **Scalable systems & creative engineering solutions**  
-
----
-
 ### 🌱 Currently Learning
 - **Machine Learning**, **Generative AI**, and **LangGraph**  
 - **System design** and backend scaling techniques  
@@ -33,41 +20,27 @@ Whether it’s debugging a stubborn algorithm or designing an AI-powered product
 
 ---
 
-### 💬 Ask Me About
-- Engineering better **AI workflows** and **automation pipelines**  
-- Building **full-stack web apps** with modern frameworks  
-- **Competitive programming**, **problem-solving**, and algorithms  
-- Productivity, creative tech setups, and mental models for deep work ☕  
-
----
-
 ### 🧩 Problem Solving & Competitive Programming
 I believe engineering starts with **curiosity and clarity of thought**.  
 I enjoy solving problems that demand both logic and creativity.  
-- 🏆 **3⭐ on CodeChef**  
+- 🏆 **3⭐ on CodeChef**
+-  Solved more than 500+ problems on Codeforces ,codechef and leetcode 
 - 💡 Experienced in **data structures, algorithms, and optimization**  
 - 🔍 Passionate about **turning theoretical ideas into practical systems**
-
 ---
-
 ### 🎮 Outside the Screen
 When I’m not engineering something new, I’m probably:
 - 🎮 Playing story-driven **video games** (I take side quests *way* too seriously)  
 - ✈️ Exploring new places and taking **night photography** shots  
 - 🎨 Designing random visuals or tweaking my **Mac setup** until it feels like *Tony Stark’s lab console*  
-
 ---
-
 ### ⚡ Fun Fact
 I often build something just because I *want to know how it works*.  
 Half of those ideas break — but that’s how the best ones are born.  
-
 ---
-
 ### 🧭 Vision
 To become an **AI Engineer & Product Builder** who combines **logic, design, and empathy** to create tech that feels truly *human*.  
 Because real engineering isn’t just about solving problems — it’s about solving the *right* ones.
-
 ---
 
 > _"Think deeply. Build boldly. Solve relentlessly."_ ⚙️
