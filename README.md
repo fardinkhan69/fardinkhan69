@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m **MD. Fardin Khan**
+# 👋 Hey there, I’m **Fardin Khan**
 
 🧠 **Problem Solver | Engineer | AI & Automation Enthusiast**  
 💻 **Computer Science & Engineering student @ RUET**  
