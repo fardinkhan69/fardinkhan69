@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m **Fardin Khan**
 
-🧠 **Problem Solver | Engineer | AI & Automation Enthusiast**  
+🧠 **Full Stack Web Developer | Problem Solver | Engineer | AI & Automation Enthusiast**  
 💻 **Computer Science & Engineering student @ RUET**  
 🚀 **Founder of [CravixTech](https://cravixtech.com)** — building smarter web & AI solutions for real-world growth.  
 🏅 **3⭐ at CodeChef | Competitive Programmer | Builder at heart**
