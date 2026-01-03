@@ -5,7 +5,8 @@
 🚀 **Founder of [CravixTech](https://cravixtech.com)** — building smarter web & AI solutions for real-world growth.  
 🏅 **3⭐ at CodeChef | Competitive Programmer | Builder at heart**
 
-⭐ **Contact : +8801795510991 [💬 WhatsApp me](https://wa.me/8801795510991?text=Hi%20Fardin%20just%20see%20you%20from%20github)
+⭐ **Contact : +8801795510991 [💬 Contact me on WhatsApp](https://wa.me/8801795510991?text=Hi%20Fardin%2C%20I%20found%20you%20through%20GitHub%20and%20I%E2%80%99m%20interested%20in%20your%20web%20and%20AI%20development%20services.%20Can%20we%20discuss%20my%20project%3F)
+
 )**
 
 ---
